@@ -1,4 +1,4 @@
-FROM 192.168.0.230:5000/tomcatarm64 
+FROM arm64v8/tomcat:9.0.14-jre8-alpine
 
 MAINTAINER github.com/PengBAI
 
